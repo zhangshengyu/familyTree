@@ -2,8 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-简介：
-  取名为“家谱”，意思就是了解自己的家庭成员以及祖辈信息
+## 取名为“家谱”，意思就是了解自己的家庭成员以及祖辈信息
 
 In the project directory, you can run:
 
