@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### `npm start`
 
-运行之后打开[localhost://3000](localhost://3000) 预览项目
+运行之后打开[localhost:3000](https://localhost:3000) 预览项目
 
 ### `npm test`
 
