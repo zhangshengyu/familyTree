@@ -1,7 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
 ## 我取名为“家谱”的意思就是希望我的子女了解自己的家庭成员以及祖上信息
 
 ### [Demo](http://www.baidu.com)
